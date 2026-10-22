@@ -1,0 +1,15 @@
+C:\Dev\Hiscox-Assignment\UserDataProcessor\bin\Debug\net10.0\UserDataProcessor.exe
+C:\Dev\Hiscox-Assignment\UserDataProcessor\bin\Debug\net10.0\UserDataProcessor.deps.json
+C:\Dev\Hiscox-Assignment\UserDataProcessor\bin\Debug\net10.0\UserDataProcessor.runtimeconfig.json
+C:\Dev\Hiscox-Assignment\UserDataProcessor\bin\Debug\net10.0\UserDataProcessor.dll
+C:\Dev\Hiscox-Assignment\UserDataProcessor\bin\Debug\net10.0\UserDataProcessor.pdb
+C:\Dev\Hiscox-Assignment\UserDataProcessor\obj\Debug\net10.0\UserDataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Hiscox-Assignment\UserDataProcessor\obj\Debug\net10.0\UserDataProcessor.AssemblyInfoInputs.cache
+C:\Dev\Hiscox-Assignment\UserDataProcessor\obj\Debug\net10.0\UserDataProcessor.AssemblyInfo.cs
+C:\Dev\Hiscox-Assignment\UserDataProcessor\obj\Debug\net10.0\UserDataProcessor.csproj.CoreCompileInputs.cache
+C:\Dev\Hiscox-Assignment\UserDataProcessor\obj\Debug\net10.0\UserDataProcessor.dll
+C:\Dev\Hiscox-Assignment\UserDataProcessor\obj\Debug\net10.0\refint\UserDataProcessor.dll
+C:\Dev\Hiscox-Assignment\UserDataProcessor\obj\Debug\net10.0\UserDataProcessor.pdb
+C:\Dev\Hiscox-Assignment\UserDataProcessor\obj\Debug\net10.0\UserDataProcessor.genruntimeconfig.cache
+C:\Dev\Hiscox-Assignment\UserDataProcessor\obj\Debug\net10.0\ref\UserDataProcessor.dll
+C:\Dev\Hiscox-Assignment\UserDataProcessor\bin\Debug\net10.0\users.csv

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UserDataProcessor.Tests/UserDataProcessor.Tests.csproj" />
+  <Project Path="UserDataProcessor/UserDataProcessor.csproj" />
+</Solution>
